@@ -1,0 +1,14 @@
+{
+  "name": "model_gen",
+  "version": "1.0.0",
+  "description": "Generate contact model data",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vcards-js": "^2.10.0"
+  }
+}
